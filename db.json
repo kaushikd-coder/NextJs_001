@@ -1,0 +1,49 @@
+{
+    "dashboard":{
+            "posts":5,
+            "likes":100,
+            "followers":20,
+            "following":50
+    },
+
+    "news":[
+        {
+            "id": 1,
+            "title": "News Article 1",
+            "description": "This is the first news article.",
+            "category": "sports"
+        },
+        {
+            "id": 2,
+            "title": "News Article 2",
+            "description": "News article regarding Politics.",
+            "category": "politics"
+        },
+        {
+            "id": 3,
+            "title": "News Article 3",
+            "description": "News article regarding Sci_Fi.",
+            "category": "CryptoNews"
+        }
+    ],
+    "products":[
+        {
+            "id":1,
+            "title":"Product 1",
+            "price" : 500,
+            "description" : "Black SweatShirt Product"
+        },
+        {
+            "id":1,
+            "title":"Product 2",
+            "price" : 1500,
+            "description" : "Ear_Buds Product"
+        },
+        {
+            "id":1,
+            "title":"Product 3",
+            "price" : 5000,
+            "description" : "Nike Shoes Product"
+        }
+    ]
+}
